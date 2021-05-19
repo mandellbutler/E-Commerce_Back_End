@@ -1,0 +1,7 @@
+._seeds
+._db
+._models
+._routes
+._config
+._api
+node_modules
