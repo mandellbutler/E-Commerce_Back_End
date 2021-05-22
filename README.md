@@ -22,7 +22,17 @@ This Web API allows online retail companies to:
 * Use environment variables to securely store sensitive information, such as MySQL usernames and passwords.
 
 
+## Video Turorials:
+For a detailed walk-through and demonstration of the application's capabilites, please click one the following links:
 
+* Create, Read, Update and Delete Categories:
+https://drive.google.com/file/d/12gyxUM_3MwApuB2zV8VxV-UA1zQm_on-/view
+
+* Create, Read, Update and Delete Products:
+https://drive.google.com/file/d/1fQaFmi-3UVGBKB8TkyJrrBtqm6ez-Y4r/view
+
+* Create, Read, Update and Delete Tags:
+https://drive.google.com/file/d/17XXwkgCtbdZOdreH309znY4mx4FI3kyR/view
 
 
 
