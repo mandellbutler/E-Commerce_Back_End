@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1fQaFmi-3UVGBKB8TkyJrrBtqm6ez-Y4r/view
 * Create, Read, Update and Delete Tags:
 https://drive.google.com/file/d/17XXwkgCtbdZOdreH309znY4mx4FI3kyR/view
 
-![Show All Tags](.assets/gif/tags.gif)
+![Show All Tags](./assets/gifs/tags.gif)
 
 
 ![](update.gif)
