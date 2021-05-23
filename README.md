@@ -1,11 +1,11 @@
 # Ecommerce Backend System
 
 ## Table of Contents
-- [Description](#installation)
-- [Installation](#user-story)
+- [Description](#description)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Video Turorials](#video-tutorials)
-- [Technology](#technoloy)
+- [Video Tutorials](#video-tutorials)
+- [Technology](#technology)
 
 
 # Description
