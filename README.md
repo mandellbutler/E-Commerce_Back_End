@@ -36,6 +36,8 @@ https://drive.google.com/file/d/17XXwkgCtbdZOdreH309znY4mx4FI3kyR/view
 
 ![](tag.gif)
 
+<img src="assets/images/tag.gif" width="400">
+
 ![](update.gif)
 
 ![](delete.gif)
