@@ -37,9 +37,10 @@ https://drive.google.com/file/d/17XXwkgCtbdZOdreH309znY4mx4FI3kyR/view
 ![Show All Tags](./assets/gifs/tags.gif)
 
 
-![](update.gif)
+![Update Tags](./assets/gifs/update.gif)
 
-![](delete.gif)
+
+![Delete Tags](./assets/gifs/delete.gif)
 
 # Technology
 This application was made possible with the use of the follow dev tools:
