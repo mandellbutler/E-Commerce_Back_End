@@ -9,7 +9,7 @@
 
 
 # Description
-As E-commerce sales continue to sky rocket, experiencing a 40% growth in 2020, many companies are transitioning from the traditional brick and mortar stores to establish a foothold in Internet retail. This E-commerce Backend System allows business owners and managers to seamlessly grow their online business. With the help of the latest and greatest API and Database technologies, this backend web application gives businesses the competive edge in the quickly expanding online arena. 
+As E-commerce sales continue to sky rocket, experiencing a 40% growth in 2020, many companies are transitioning from the traditional brick and mortar stores to establish a foothold in Internet retail. This E-commerce Backend System allows business owners and managers to seamlessly grow their online business. With the help of the latest and greatest API and Database technologies, this backend web application gives businesses the competitive edge in the quickly expanding online arena. 
 
 
 
